@@ -149,5 +149,5 @@ components/
 lib/supabase/ (Server + client Supabase clients)
 types/ (TypeScript interfaces)
 Live Demo
-[Add your Vercel deployment URL here]
+https://assignment-frontend-six-jet.vercel.app/
 
